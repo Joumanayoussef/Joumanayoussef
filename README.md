@@ -1,14 +1,25 @@
 # Joumana Youssef
 
+AI Engineer | B.Sc. Data Science & AI, Zewail City (2026)
 
-AI Engineer and Data Science & AI graduate from Zewail City.
+Previously AI R&D Intern at AI-STRATA (Newmenta Holding), building a multilingual Arabic/English RAG pipeline.
 
-**Featured projects**
-- **[Multi-Modal Document Intelligence](https://github.com/Joumanayoussef/RAG_Multimodal)**: visual RAG over PDFs with ColPali retrieval, Qdrant multi-vector search, and cited answers
-- **[Credit Card Fraud Detection](https://github.com/Joumanayoussef/ieee-cis-fraud-detection)**: LightGBM/XGBoost on IEEE-CIS with time-based validation and SHAP/LIME explainability
-- **[Bowling Pin-Fall Detection](https://github.com/Joumanayoussef/Bowling-Detection-ComputerVision)**: fine-tuned YOLOv8 with a five-signal fall detector and an offline Android app
-- **[AI-Powered Smart Campus Assistant](https://github.com/saamasameh889/-Al-Powered-Smart-Campus-Assistant---Graduation-Project)**: graduation project with a RAG academic advisor, risk prediction, and GPA forecasting
+## Selected Work
 
-**Stack:** Python, PyTorch, LangChain, Qdrant, ChromaDB, scikit-learn, LightGBM, XGBoost, YOLOv8, OpenCV, SHAP, Spark, SQL
+| Project | Focus | Stack |
+|---|---|---|
+| [Multi-Modal Document Intelligence](https://github.com/Joumanayoussef/RAG_Multimodal) | Visual RAG over PDFs with page-level citations | ColPali, Qdrant, PyTorch, OpenAI API |
+| [Credit Card Fraud Detection](https://github.com/Joumanayoussef/ieee-cis-fraud-detection) | Explainable fraud detection with time-based validation | LightGBM, XGBoost, SHAP, LIME |
+| [Bowling Pin-Fall Detection](https://github.com/Joumanayoussef/Bowling-Detection-ComputerVision) | Object detection, event tracking, on-device inference | YOLOv8, OpenCV, TFLite, Android |
+| [Smart Campus Assistant](https://github.com/saamasameh889/-Al-Powered-Smart-Campus-Assistant---Graduation-Project) | Graduation project: RAG advisor, risk prediction, GPA forecasting | ChromaDB, BM25, XGBoost, LSTM |
 
-**Contact:** joumanamohamed22@gmail.com
+## Tech Stack
+
+- **LLMs & RAG:** LangChain, OpenAI API, ColPali, Qdrant, ChromaDB
+- **Machine Learning:** PyTorch, TensorFlow, scikit-learn, LightGBM, XGBoost, SHAP
+- **Computer Vision:** YOLOv8, OpenCV, TFLite
+- **Data:** Python, SQL, Pandas, Spark, Kafka
+
+## Contact
+
+joumanamohamed22@gmail.com
