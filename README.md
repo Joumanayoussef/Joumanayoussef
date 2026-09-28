@@ -1,6 +1,7 @@
 # Joumana Youssef
 
-AI Engineer and Data Science & AI graduate from Zewail City. I build LLM and RAG systems, explainable ML models, and computer vision pipelines, with a focus on honest evaluation.
+
+AI Engineer and Data Science & AI graduate from Zewail City.
 
 **Featured projects**
 - **[Multi-Modal Document Intelligence](https://github.com/Joumanayoussef/RAG_Multimodal)**: visual RAG over PDFs with ColPali retrieval, Qdrant multi-vector search, and cited answers
